@@ -43,7 +43,7 @@ atp-match-prediction/
 ├── .gitignore
 ├── TPI_G4_Tenis.ipynb     Notebook: ETL, modelos, resultados y storytelling
 ├── figuras/               Gráficos del storytelling (PNG, 200 dpi)
-└── paper/                 Paper en LaTeX (ES y EN), en preparación
+└── paper/                 Paper en LaTeX (ES y EN) con PDF compilado
 ```
 
 ## Cómo reproducir el análisis
